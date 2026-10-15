@@ -14,6 +14,12 @@
 5. Evidencia Visual: Videos con IDS, cajas y trayectoria y 3 casos de fallo 
 6. Entrega: Repo de Github junto al documento escrito de 4-5 páginas EN INGLÉS
 
+
+## MODELOS USADOS: 
+
+- YOLO V8 N
+- FASTER R-CNN
+  
 ## Image Preprocesing 
 
 
